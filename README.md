@@ -1,6 +1,10 @@
 # Sorting-Visualizer
 A web application showcasing the inner workings of sorting algorithms.
 
+
+![image](https://github.com/Bhuvaneshwari-H/Sorting-Visualizer/assets/85927519/f2cccf36-3263-460f-9a33-5a97d168eff3)
+
+
 Implemented algorithms:
 
 Bubble sort
